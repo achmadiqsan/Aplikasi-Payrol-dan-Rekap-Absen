@@ -1,0 +1,2 @@
+# Aplikasi-Payrol-dan-Rekap-Absen
+APLIKASI PAYROLL DAN REKAP ABSEN DENGAN DELPHI 7
