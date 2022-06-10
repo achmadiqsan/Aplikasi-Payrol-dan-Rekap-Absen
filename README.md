@@ -36,4 +36,5 @@ Note MIT LICENSE :
 3. Jika Ingin Mengembangkan Aplikasi ini Di Persilahkan dengan menggunakan Github Secara Open Source
 4. Jika Tetap Ingin Menjual Aplikasi ini, Jangan Lupa Hasil Keuntungan dari Penjualan Aplikasi ini di Sedekahkan Ke pada Orang yang membutuhkan, Anak Yatim, Anak Yatim Piatu dan Sebagainya Agar Menjadi Doa Kepada Pembuat Aplikasi Beserta Keluarga Besar https://github.com/achmadiqsan.
 
+LOKASI FILE AGAR TIDAK ERROR : SIMPAN FILE CODING DI DRIVE D
 
